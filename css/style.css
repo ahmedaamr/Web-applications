@@ -1,0 +1,174 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.body
+{
+
+	border-color: dimgray;
+	border-style: solid;
+	border-left-width: 40px;
+	
+}
+.header
+{
+	padding-top: 20px;
+	background-image:url('../images/20.jpg');
+	background-size:  cover;
+	background-repeat: no-repeat;
+	height: 800px;
+	width: 100%;
+	
+}
+.header h1
+{
+	font-family: 'Tangerine', serif;
+	text-align: center;
+	font-size: 120px;
+	font-style: bold;
+	color: 	#48D1CC;
+	
+
+}
+.header h3
+{
+	 font-family: 'Tangerine', serif;
+	text-align: center;
+	font-size: 60px;
+	color: 	#48D1CC;
+	
+
+}
+.header #button
+{
+	margin-left: 45%;
+	margin-top: 10%;
+	width:180px;
+	height: 50px;
+	display: block;
+	background-color: 	#48D1CC;
+	font-size: 25px;
+	font-style: bold;
+	color: white;
+
+}
+section .content
+{
+	background-color: blue;
+	height: 800px;
+	width: 100%;
+	padding: 30px;
+	margin-left: 40px;
+	
+	
+	
+}
+
+section.content h1
+{
+
+	font-style:bold;
+	text-align: center;
+	font-size: 60px;
+	color: black;
+}
+section.content .item 
+{
+	text-align: center;
+	float: left;
+	margin:auto;
+	display: inline;
+	padding: 50px;
+	list-style-position: inside;
+	width: 18%;
+	
+	
+
+}
+section.content .item h3
+{
+	font-size: 25px;
+	font-weight: bold;
+	color:black;
+	text-align: center;
+	padding: 20px 0px;
+}
+section .contact
+{
+		display: block;
+		background-color: white;
+
+
+}
+
+section.contact h2
+{
+	
+	font-size: 40px;
+	margin-top:300px;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+	
+}
+section.contact input
+{
+
+	display:block;
+	margin:3px auto;
+	width: 60%;
+	height:60px;
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-color: gray;
+	
+
+}
+
+section.contact textarea
+{
+	width: 60%;
+	height:60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+    
+}
+section.contact #submit
+{
+	background-color: 	#48D1CC;
+	width: 200px;
+	display:block;
+	margin:3px auto;
+	height:60px;
+	color: white;
+	font-size: 20px;
+	font-style:bold;
+	border: none;
+
+}
+footer 
+{
+	background-color: dimgray;
+	width: 100%;
+	height:100px;
+	
+	font-family: 'Tangerine', serif;
+
+}
+footer p
+{
+	text-align: center;
+	font-size: 60px;
+	padding: 25px;
+}
+span
+{
+	
+	color: #48D1CC;
+}
